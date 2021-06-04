@@ -21,17 +21,12 @@ Designed script allows users to scrape authors and save them in one of the follo
 
 #### Technologies
 
-*   <img align="left" width="40px" src="https://user-images.githubusercontent.com/1499751/115736045-a513f280-a393-11eb-8dbd-ebd3eda15841.png"/> 
-   
-*   <img align="left" width="40px" src="https://user-images.githubusercontent.com/1499751/120819176-f9e28580-c55b-11eb-9635-93e2dc487f8e.png"/> 
-
-*   <img align="left" width="40px" src="https://user-images.githubusercontent.com/1499751/120821194-ecc69600-c55d-11eb-99ab-4df9ae2dca53.png"/> 
-
-*   <img align="left" width="40px" src="https://user-images.githubusercontent.com/1499751/120819621-6d849280-c55c-11eb-8e85-71e662d72dc7.png"/> 
-
-*   <img align="left" width="80px" src="https://user-images.githubusercontent.com/1499751/120820664-6a3dd680-c55d-11eb-818c-dbd8f68481aa.png"/> 
-
-*   <img align="left" width="50px" src="https://user-images.githubusercontent.com/1499751/120820294-159a5b80-c55d-11eb-8e27-32dc85f5a88f.png"/>
+- <img width="40px" src="https://user-images.githubusercontent.com/1499751/115736045-a513f280-a393-11eb-8dbd-ebd3eda15841.png"/>
+* <img width="40px" src="https://user-images.githubusercontent.com/1499751/120819176-f9e28580-c55b-11eb-9635-93e2dc487f8e.png"/>
+- <img width="40px" src="https://user-images.githubusercontent.com/1499751/120821194-ecc69600-c55d-11eb-99ab-4df9ae2dca53.png"/> 
+* <img width="40px" src="https://user-images.githubusercontent.com/1499751/120819621-6d849280-c55c-11eb-8e85-71e662d72dc7.png"/> 
+- <img width="80px" src="https://user-images.githubusercontent.com/1499751/120820664-6a3dd680-c55d-11eb-818c-dbd8f68481aa.png"/> 
+* <img width="50px" src="https://user-images.githubusercontent.com/1499751/120820294-159a5b80-c55d-11eb-8e27-32dc85f5a88f.png"/>
 
 [Back To The Top](#QuotesAuthorScraping)
 
