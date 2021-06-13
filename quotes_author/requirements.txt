@@ -1,0 +1,6 @@
+crochet~=2.0.0
+Flask~=2.0.1
+Scrapy~=2.5.0
+PyYAML~=5.4.1
+mysql-connector-python~=8.0.25
+itemadapter~=0.2.0

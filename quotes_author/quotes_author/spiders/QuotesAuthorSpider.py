@@ -1,7 +1,8 @@
 import scrapy
+from scrapy import signals
+from ..items import AuthorItem
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
-from ..items import AuthorItem
 
 
 class QuotesAuthorSpider(CrawlSpider):
@@ -12,6 +13,19 @@ class QuotesAuthorSpider(CrawlSpider):
 
     rules = (Rule(LinkExtractor(allow=(), restrict_xpaths=('/html/body/div[1]/div[2]/div[1]/nav/ul/li/a',)),
                   callback="parse", follow=True),)
+    
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.parent = args[0]
+    
+    @classmethod
+    def from_crawler(cls, crawler, *args, **kwargs):
+        spider = super(QuotesAuthorSpider, cls).from_crawler(crawler, *args, **kwargs)
+        crawler.signals.connect(spider.spider_closed, signal=signals.spider_closed)
+        return spider
+
+    def spider_closed(self, spider):
+        self.parent.is_closed = True
 
     def parse(self, response, **kwargs):
         for href in response.css(".quote span a::attr('href')"):
