@@ -15,9 +15,9 @@ Contents
 
 By doing this project I wanted to demonstrate my abilities to solve problems connected with data mining.
 
-Problem. Site "Quotes to Scrape" is designed to explore different techniques and ways of scraping data from web page. Standard practice is to scrape quotes from every page, but I decided to go further and scrape all quotes authors. To solve that task, I have been using Python framework called Scrapy. Its a powerful tool witch gives you many means to scrape data and represent it in different formats.
+Problem. Site "Quotes to Scrape" is designed to explore different techniques and ways of scraping data from web pages. Standard practice is to scrape quotes from every page, but I decided to go further and scrape all quotes authors. To solve that task, I have been using a Python framework called Scrapy. It's a powerful tool that gives you many means to scrape data and represent it in different formats.
 
-Designed script allows users to scrape authors and save them in one of the following formats: JSON, SQLite, MySQL and XML.
+The designed script allows users to scrape authors and save them in one of the following formats: JSON, SQLite, MySQL, and XML.
 
 #### Technologies
 
