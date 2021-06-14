@@ -1,4 +1,4 @@
-# QuotesAuthorScraping
+# Quotes_Author_Scraper
 
 Contents
 ========
@@ -28,7 +28,7 @@ The designed script allows users to scrape authors and save them in one of the f
 - <img width="80px" src="https://user-images.githubusercontent.com/1499751/120820664-6a3dd680-c55d-11eb-818c-dbd8f68481aa.png"/> 
 * <img width="50px" src="https://user-images.githubusercontent.com/1499751/120820294-159a5b80-c55d-11eb-8e27-32dc85f5a88f.png"/>
 
-[Back To The Top](#QuotesAuthorScraping)
+[Back To The Top](#Quotes_Author_Scraper)
 
 ---
 
@@ -42,7 +42,7 @@ To start using that project on your machine, you need to have a Python 3.7+, dow
 
 Open main.py file, enter output format (or leave it empty for JSON) and run it with Python.
 
-[Back To The Top](#QuotesAuthorScraping)
+[Back To The Top](#Quotes_Author_Scraper)
 
 ---
 
@@ -72,7 +72,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-[Back To The Top](#QuotesAuthorScraping)
+[Back To The Top](#Quotes_Author_Scraper)
 
 ---
 
@@ -81,4 +81,4 @@ SOFTWARE.
 - Upwork - [Didechkin Oleg](https://www.upwork.com/freelancers/~01bc2c6d8b19205903)
 - Fiverr - [Didechkin Oleg](https://www.fiverr.com/dbofury)
 
-[Back To The Top](#QuotesAuthorScraping)
+[Back To The Top](#Quotes_Author_Scraper)
