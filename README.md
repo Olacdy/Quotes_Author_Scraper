@@ -80,5 +80,6 @@ SOFTWARE.
 
 - Upwork - [Didechkin Oleg](https://www.upwork.com/freelancers/~01bc2c6d8b19205903)
 - Fiverr - [Didechkin Oleg](https://www.fiverr.com/dbofury)
+- LinkedIn - [Didechkin Oleg](https://www.linkedin.com/in/%D0%BE%D0%BB%D0%B5%D0%B3-%D0%B4%D0%B8%D0%B4%D0%B5%D1%87%D0%BA%D0%B8%D0%BD-881687214/?locale=en_US)
 
 [Back To The Top](#Quotes_Author_Scraper)
